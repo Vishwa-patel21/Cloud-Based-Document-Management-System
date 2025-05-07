@@ -25,16 +25,16 @@ A secure and scalable web application for managing, storing, and accessing docum
 
 ## 📂 Project Structure
 
-├── src/ # Frontend Vue.js source code
-│ ├── components/ # Reusable UI components
-│ ├── views/ # Page views
-│ └── router/ # Route configuration
-│
-├── public/ # Static files and index.html
-├── aws-exports.js # AWS Amplify configuration (auto-generated)
-├── .gitignore
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
+- src/ # Frontend Vue.js source code
+  - components/ # Reusable UI components
+  -  views/ # Page views
+  -   router/ # Route configuration
+
+- public/ # Static files and index.html
+- aws-exports.js # AWS Amplify configuration (auto-generated)
+- .gitignore
+- package.json # Project metadata and dependencies
+- README.md # Project documentation
 
 
 ---
